@@ -1,2 +1,2 @@
 # Dotty
-Android Dotty game app that I completed using the Zybooks Textbook.
+Android Dotty game app that I completed using the zyBooks Textbook.
